@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "vWx7uVxxXj3lFWQp9sEw2PfA7ru3EanbfrsOlDEkClo9DZQcXCOXEDVO9aAf4nT+JjMotYgGwpgyfubtHIbm6g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sebcw\\Documents\\GitHub\\Thesaurus-Backend\\ProjectThesaurus\\Aplication\\Aplication.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sebcw\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.19.6\\microsoft.visualstudio.azure.containers.tools.targets.1.19.6.nupkg.sha512"
+  ],
+  "logs": []
+}

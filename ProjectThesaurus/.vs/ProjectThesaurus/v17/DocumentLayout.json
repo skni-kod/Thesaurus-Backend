@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sebcw\\Documents\\GitHub\\Thesaurus-Backend\\ProjectThesaurus\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ED267C21-E511-414C-A512-30D6E7E01552}|Infrastructure\\Infrastructure.csproj|c:\\users\\sebcw\\documents\\github\\thesaurus-backend\\projectthesaurus\\infrastructure\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED267C21-E511-414C-A512-30D6E7E01552}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD77ED7A-E510-4FF2-87A0-758E057B2FAE}|Api\\Api.csproj|c:\\users\\sebcw\\documents\\github\\thesaurus-backend\\projectthesaurus\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD77ED7A-E510-4FF2-87A0-758E057B2FAE}|Api\\Api.csproj|solutionrelative:api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD77ED7A-E510-4FF2-87A0-758E057B2FAE}|Api\\Api.csproj|c:\\users\\sebcw\\documents\\github\\thesaurus-backend\\projectthesaurus\\api\\api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{CD77ED7A-E510-4FF2-87A0-758E057B2FAE}|Api\\Api.csproj|solutionrelative:api\\api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA989454-9571-461E-9F0A-17D7E5DA0FA3}|Presentation\\Presentation.csproj|c:\\users\\sebcw\\documents\\github\\thesaurus-backend\\projectthesaurus\\presentation\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA989454-9571-461E-9F0A-17D7E5DA0FA3}|Presentation\\Presentation.csproj|solutionrelative:presentation\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30739745-BB19-4FE7-96B0-E80489162A76}|Domain\\Domain.csproj|c:\\users\\sebcw\\documents\\github\\thesaurus-backend\\projectthesaurus\\domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30739745-BB19-4FE7-96B0-E80489162A76}|Domain\\Domain.csproj|solutionrelative:domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8787965D-F7F1-417F-8314-CF8EFDE53F55}|Application\\Application.csproj|c:\\users\\sebcw\\documents\\github\\thesaurus-backend\\projectthesaurus\\application\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8787965D-F7F1-417F-8314-CF8EFDE53F55}|Application\\Application.csproj|solutionrelative:application\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sebcw\\Documents\\GitHub\\Thesaurus-Backend\\ProjectThesaurus\\Api\\Program.cs",
+              "RelativeDocumentMoniker": "Api\\Program.cs",
+              "ToolTip": "C:\\Users\\sebcw\\Documents\\GitHub\\Thesaurus-Backend\\ProjectThesaurus\\Api\\Program.cs",
+              "RelativeToolTip": "Api\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T20:45:40.231Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Api.http",
+              "DocumentMoniker": "C:\\Users\\sebcw\\Documents\\GitHub\\Thesaurus-Backend\\ProjectThesaurus\\Api\\Api.http",
+              "RelativeDocumentMoniker": "Api\\Api.http",
+              "ToolTip": "C:\\Users\\sebcw\\Documents\\GitHub\\Thesaurus-Backend\\ProjectThesaurus\\Api\\Api.http",
+              "RelativeToolTip": "Api\\Api.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-08-17T20:45:34.387Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\sebcw\\Documents\\GitHub\\Thesaurus-Backend\\ProjectThesaurus\\Presentation\\Class1.cs",
+              "RelativeDocumentMoniker": "Presentation\\Class1.cs",
+              "ToolTip": "C:\\Users\\sebcw\\Documents\\GitHub\\Thesaurus-Backend\\ProjectThesaurus\\Presentation\\Class1.cs",
+              "RelativeToolTip": "Presentation\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T20:34:51.617Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\sebcw\\Documents\\GitHub\\Thesaurus-Backend\\ProjectThesaurus\\Infrastructure\\Class1.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Class1.cs",
+              "ToolTip": "C:\\Users\\sebcw\\Documents\\GitHub\\Thesaurus-Backend\\ProjectThesaurus\\Infrastructure\\Class1.cs",
+              "RelativeToolTip": "Infrastructure\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T20:34:32.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\sebcw\\Documents\\GitHub\\Thesaurus-Backend\\ProjectThesaurus\\Domain\\Class1.cs",
+              "RelativeDocumentMoniker": "Domain\\Class1.cs",
+              "ToolTip": "C:\\Users\\sebcw\\Documents\\GitHub\\Thesaurus-Backend\\ProjectThesaurus\\Domain\\Class1.cs",
+              "RelativeToolTip": "Domain\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T20:34:14.345Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\sebcw\\Documents\\GitHub\\Thesaurus-Backend\\ProjectThesaurus\\Application\\Class1.cs",
+              "RelativeDocumentMoniker": "Application\\Class1.cs",
+              "ToolTip": "C:\\Users\\sebcw\\Documents\\GitHub\\Thesaurus-Backend\\ProjectThesaurus\\Application\\Class1.cs",
+              "RelativeToolTip": "Application\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T20:32:41.367Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "UhGb2qNGUoNnQxXJb4MBjeapFjaLjt8tv0pHYexlkMcJ0ixGjEczJyzKWBGwlli1cVwM6KhmyOPSf06Thlqo5w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sebcw\\Documents\\GitHub\\Thesaurus-Backend\\ProjectThesaurus\\Infrastructure\\Infrastructure.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sebcw\\.nuget\\packages\\fluentvalidation\\11.9.2\\fluentvalidation.11.9.2.nupkg.sha512",
+    "C:\\Users\\sebcw\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\11.9.2\\fluentvalidation.dependencyinjectionextensions.11.9.2.nupkg.sha512",
+    "C:\\Users\\sebcw\\.nuget\\packages\\mediatr\\12.4.0\\mediatr.12.4.0.nupkg.sha512",
+    "C:\\Users\\sebcw\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\sebcw\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

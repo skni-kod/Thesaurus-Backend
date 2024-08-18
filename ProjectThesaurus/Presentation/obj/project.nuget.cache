@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "GxYuuAIhFCQmdTanwoqqJnDgB/5XShINCifrRpaZjvV214WMHaXn821gUVhjbtXgG+luWQqANgbTzcVRTUrWAw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sebcw\\Documents\\GitHub\\Thesaurus-Backend\\ProjectThesaurus\\Presentation\\Presentation.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sebcw\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
